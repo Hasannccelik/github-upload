@@ -27,6 +27,7 @@ pi="Pythonis"
 aw="Awesome"
 tl=pi+aw
 print(tl)
+print("Gönderme Denemesi")
 
      
 
